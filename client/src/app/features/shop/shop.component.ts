@@ -48,8 +48,8 @@ export class ShopComponent {
     this.initialiseShop();
   }
   initialiseShop (){
-    this.shopService.getBrands();
     this.shopService.getTypes();
+    this.shopService.getBrands();
     this.getProducts();
     
   }
