@@ -39,7 +39,7 @@ export class ShopComponent {
   sortOptions= [
     {name: 'Alphabetical', value: 'name'},
     {name: 'Price: Low-High', value: 'priceAsc'},
-    {name: 'Price: High-Low', value: 'priceDesc'}
+    {name: 'Price: High-Low', value: 'priceDesc'},
   ]
   shopParams = new ShopParams();
   pageSizeOptions = [5,10,15,20]
@@ -47,14 +47,16 @@ export class ShopComponent {
   ngOnInit() {
     this.initialiseShop();
   }
-  initialiseShop (){
+  initialiseShop () {
     this.shopService.getTypes();
     this.shopService.getBrands();
     this.getProducts();
     
   }
 
-  getProducts(){
+  
+
+  getProducts() {
     this.shopService.getProducts(this.shopParams).subscribe({
       next: response => this.products = response,
       error: error => console.error(error),
