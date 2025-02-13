@@ -1,4 +1,3 @@
-using System;
 using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
@@ -9,6 +8,6 @@ public class DeliveryMethodConfiguration : IEntityTypeConfiguration<DeliveryMeth
 {
     public void Configure(EntityTypeBuilder<DeliveryMethod> builder)
     {
-        builder.Property(x => x.Price).HasColumnName("decimal(18,2)");
+        builder.Property(x => x.Price).HasColumnType("decimal(18,2)");
     }
 }
