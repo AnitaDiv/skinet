@@ -1,12 +1,5554 @@
 {
   "Version": 1,
-  "Hash": "A5c6GKfqW+kOYxX7+ezU9WKq8ts6/mK8f4alHUBjdmk=",
+  "Hash": "x+JDw9Y+wPCwevrXW+irD3ZqMhM0Sz8ORiZOHSnsvH8=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index#[.{fingerprint=y6uwcimdt6}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "djq1kaplep",
+      "Integrity": "Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\2gxhan1kkj-agojoht1a0.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-ZXYVVBPE#[.{fingerprint=agojoht1a0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xyikn68g03",
+      "Integrity": "CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "favicon#[.{fingerprint=vagikyz9qx}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "spc2whqxhc",
+      "Integrity": "4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\ato4nv99mo-wdoefg73hp.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-O5HIKCJA#[.{fingerprint=wdoefg73hp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pf2y8c9qpm",
+      "Integrity": "K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main-UHMDIAUA#[.{fingerprint=ws5fztzpdg}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gkbdkpd50l",
+      "Integrity": "0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\rk0kccqi5b-b1v8u17hms.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles-3VB43EF6#[.{fingerprint=b1v8u17hms}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\styles-3VB43EF6.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "89tggxq3dw",
+      "Integrity": "HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\styles-3VB43EF6.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint=39tegmrjtp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w4lx0xupn9",
+      "Integrity": "wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "prerendered-routes#[.{fingerprint=tvy3j3n584}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\prerendered-routes.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "flm15mbdxq",
+      "Integrity": "o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\prerendered-routes.json"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-oy6uyn8tim.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint=oy6uyn8tim}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "guvvmcljxl",
+      "Integrity": "CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oy6uyn8tim",
+      "Integrity": "wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-O5HIKCJA#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wdoefg73hp",
+      "Integrity": "9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-O5HIKCJA.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-ZXYVVBPE#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "agojoht1a0",
+      "Integrity": "dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-ZXYVVBPE.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\favicon.ico",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/hero1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9g8nky98ym",
+      "Integrity": "d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/hero2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9em09a7zx9",
+      "Integrity": "n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero3.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/hero3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gx8rvylj2y",
+      "Integrity": "9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero4.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/hero4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g0irkbzfu4",
+      "Integrity": "ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero4.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\logo.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y6d1rl17od",
+      "Integrity": "Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\placeholder.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/placeholder#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dlbf4ut9r1",
+      "Integrity": "cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/boot-ang1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7vhuam157",
+      "Integrity": "xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/boot-ang2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3mx7ghjao",
+      "Integrity": "5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/boot-core1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u5gzcfuhld",
+      "Integrity": "bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/boot-core2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vl8j47b4zz",
+      "Integrity": "rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/boot-redis1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujsmkc6cge",
+      "Integrity": "9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/glove-code1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hjatec42kt",
+      "Integrity": "Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/glove-code2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7rfyrcpgaq",
+      "Integrity": "Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/glove-react1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qkf2kkbct5",
+      "Integrity": "pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/glove-react2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hleln2xgnm",
+      "Integrity": "2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/hat-core1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qjn20d7mmr",
+      "Integrity": "tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/hat-react1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogijun3cjh",
+      "Integrity": "OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/hat-react2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wihax8artv",
+      "Integrity": "yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/sb-ang1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lvxtg3kj4t",
+      "Integrity": "P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/sb-ang2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sz22xe7sgv",
+      "Integrity": "qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/sb-core1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1035sj0izl",
+      "Integrity": "jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/sb-core2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "drwp5gg2x0",
+      "Integrity": "56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/sb-react1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6zxvxdfvuf",
+      "Integrity": "Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/sb-ts1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oybcq84912",
+      "Integrity": "kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y6uwcimdt6",
+      "Integrity": "2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main-UHMDIAUA#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ws5fztzpdg",
+      "Integrity": "4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main-UHMDIAUA.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "39tegmrjtp",
+      "Integrity": "adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\prerendered-routes.json",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "prerendered-routes#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tvy3j3n584",
+      "Integrity": "p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\prerendered-routes.json"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\styles-3VB43EF6.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles-3VB43EF6#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b1v8u17hms",
+      "Integrity": "4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles-3VB43EF6.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "3rdpartylicenses.oy6uyn8tim.txt",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-oy6uyn8tim.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000194969780"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oy6uyn8tim"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.oy6uyn8tim.txt",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oy6uyn8tim"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.oy6uyn8tim.txt.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-oy6uyn8tim.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oy6uyn8tim"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-oy6uyn8tim.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000194969780"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wFzxpQuHgb4kGFlx3DzWwUVPOlH5J5c7yhNrjzS79nY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-oy6uyn8tim.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLfF0Wvr7BShZnhhHXQmBVameP0fJsDDveh1P3TgR0k="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O5HIKCJA.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\ato4nv99mo-wdoefg73hp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000052634349"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18998"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O5HIKCJA.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O5HIKCJA.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\ato4nv99mo-wdoefg73hp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O5HIKCJA.wdoefg73hp.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\ato4nv99mo-wdoefg73hp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000052634349"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18998"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdoefg73hp"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-O5HIKCJA.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O5HIKCJA.wdoefg73hp.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdoefg73hp"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-O5HIKCJA.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FEOWLo/f8E+ocv9x9jH8feqRqje0DDaS6rXpaO1fIk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O5HIKCJA.wdoefg73hp.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\ato4nv99mo-wdoefg73hp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdoefg73hp"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-O5HIKCJA.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/cfGNSqU53Rpm0yUCpVlJYw9I7RfJ3qnbLPlPEVpF8="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ZXYVVBPE.agojoht1a0.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\2gxhan1kkj-agojoht1a0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015610122"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64060"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agojoht1a0"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-ZXYVVBPE.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ZXYVVBPE.agojoht1a0.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agojoht1a0"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-ZXYVVBPE.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ZXYVVBPE.agojoht1a0.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\2gxhan1kkj-agojoht1a0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agojoht1a0"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-ZXYVVBPE.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ZXYVVBPE.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\2gxhan1kkj-agojoht1a0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015610122"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64060"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ZXYVVBPE.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dvF4Ws8wn2bTMNhEMa/2GyV3Pm56Xd6FvXNiibIjdgk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ZXYVVBPE.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\2gxhan1kkj-agojoht1a0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CWy0DRp1czxZGLGlNTQ+o2lF9LEii+jDkZtq4VKw3gI="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000237360551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000237360551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero1.9g8nky98ym.jpg",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9g8nky98ym"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero1.jpg",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero2.9em09a7zx9.jpg",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9em09a7zx9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero2.jpg",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero3.gx8rvylj2y.jpg",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx8rvylj2y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero3.jpg",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero4.g0irkbzfu4.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Jun 2024 08:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g0irkbzfu4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero4.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Jun 2024 08:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2020 02:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.y6d1rl17od.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2020 02:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6d1rl17od"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8="
+        }
+      ]
+    },
+    {
+      "Route": "images/placeholder.dlbf4ut9r1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlbf4ut9r1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/placeholder.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY="
+        }
+      ]
+    },
+    {
+      "Route": "images/placeholder.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-ang1.e7vhuam157.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:43:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7vhuam157"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-ang1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-ang1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:43:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-ang2.g3mx7ghjao.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g3mx7ghjao"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-ang2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-ang2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-core1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:41:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-core1.u5gzcfuhld.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:41:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u5gzcfuhld"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-core1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-core2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-core2.vl8j47b4zz.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vl8j47b4zz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-core2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-redis1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:27:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/boot-redis1.ujsmkc6cge.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:27:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujsmkc6cge"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-redis1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-code1.hjatec42kt.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjatec42kt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-code1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-code1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-code2.7rfyrcpgaq.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rfyrcpgaq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-code2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-code2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-react1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-react1.qkf2kkbct5.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qkf2kkbct5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-react1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-react2.hleln2xgnm.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:26:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hleln2xgnm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-react2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glove-react2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:26:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hat-core1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hat-core1.qjn20d7mmr.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qjn20d7mmr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hat-core1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hat-react1.ogijun3cjh.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogijun3cjh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hat-react1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hat-react1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hat-react2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:37:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hat-react2.wihax8artv.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:37:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wihax8artv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hat-react2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ang1.lvxtg3kj4t.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvxtg3kj4t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ang1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ang1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ang2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:15:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ang2.sz22xe7sgv.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:15:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sz22xe7sgv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ang2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-core1.1035sj0izl.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1035sj0izl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-core1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-core1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-core2.drwp5gg2x0.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "191930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:36:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "drwp5gg2x0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-core2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-core2.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "191930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jul 2024 08:36:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-react1.6zxvxdfvuf.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:18:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6zxvxdfvuf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-react1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-react1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:18:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ts1.oybcq84912.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:18:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oybcq84912"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ts1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ts1.png",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 09:18:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000096441315"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0="
+        }
+      ]
+    },
+    {
+      "Route": "index.y6uwcimdt6.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000096441315"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6uwcimdt6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
+        }
+      ]
+    },
+    {
+      "Route": "index.y6uwcimdt6.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6uwcimdt6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
+        }
+      ]
+    },
+    {
+      "Route": "index.y6uwcimdt6.html.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6uwcimdt6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0="
+        }
+      ]
+    },
+    {
+      "Route": "main-UHMDIAUA.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005625404"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177764"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+        }
+      ]
+    },
+    {
+      "Route": "main-UHMDIAUA.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "756015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+        }
+      ]
+    },
+    {
+      "Route": "main-UHMDIAUA.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo="
+        }
+      ]
+    },
+    {
+      "Route": "main-UHMDIAUA.ws5fztzpdg.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005625404"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177764"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ws5fztzpdg"
+        },
+        {
+          "Name": "label",
+          "Value": "main-UHMDIAUA.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+        }
+      ]
+    },
+    {
+      "Route": "main-UHMDIAUA.ws5fztzpdg.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "756015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ws5fztzpdg"
+        },
+        {
+          "Name": "label",
+          "Value": "main-UHMDIAUA.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+        }
+      ]
+    },
+    {
+      "Route": "main-UHMDIAUA.ws5fztzpdg.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ws5fztzpdg"
+        },
+        {
+          "Name": "label",
+          "Value": "main-UHMDIAUA.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079636856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079636856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025641025641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\prerendered-routes.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025641025641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\prerendered-routes.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I="
+        }
+      ]
+    },
+    {
+      "Route": "styles-3VB43EF6.b1v8u17hms.css",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\rk0kccqi5b-b1v8u17hms.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000093440478"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10701"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b1v8u17hms"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-3VB43EF6.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles-3VB43EF6.b1v8u17hms.css",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\styles-3VB43EF6.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b1v8u17hms"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-3VB43EF6.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles-3VB43EF6.b1v8u17hms.css.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\rk0kccqi5b-b1v8u17hms.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b1v8u17hms"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-3VB43EF6.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs="
+        }
+      ]
+    },
+    {
+      "Route": "styles-3VB43EF6.css",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\rk0kccqi5b-b1v8u17hms.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000093440478"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10701"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles-3VB43EF6.css",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\styles-3VB43EF6.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4X6sKJqCHLHtsKq+MwoX+sJaXTF1CmKrjLSLiuF4lpQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles-3VB43EF6.css.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\rk0kccqi5b-b1v8u17hms.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HIyEhJ2Rg84m4kzq9PngEjc4vDYMCVv+Or5KwjIBlGs="
+        }
+      ]
+    }
+  ]
 }

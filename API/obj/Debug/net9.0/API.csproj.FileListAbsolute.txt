@@ -163,3 +163,15 @@ C:\Users\Dell\skinet\API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 C:\Users\Dell\skinet\API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Dell\skinet\API\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\Dell\skinet\API\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\Dell\skinet\API\bin\Debug\net9.0\Data\SeedData\delivery.json
+C:\Users\Dell\skinet\API\bin\Debug\net9.0\Data\SeedData\products.json
+C:\Users\Dell\skinet\API\bin\Debug\net9.0\API.staticwebassets.runtime.json
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\zzyd6wgwl5-oy6uyn8tim.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\ato4nv99mo-wdoefg73hp.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\2gxhan1kkj-agojoht1a0.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\6x0scahnf1-vagikyz9qx.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\1dpm1p8bmc-y6uwcimdt6.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\i9tmpv9ytj-ws5fztzpdg.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\wsenxafarw-39tegmrjtp.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\xtgzzp8wob-tvy3j3n584.gz
+C:\Users\Dell\skinet\API\obj\Debug\net9.0\compressed\rk0kccqi5b-b1v8u17hms.gz

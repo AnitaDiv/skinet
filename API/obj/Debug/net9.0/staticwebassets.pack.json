@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js",
+      "PackagePath": "staticwebassets\\chunk-O5HIKCJA.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js",
+      "PackagePath": "staticwebassets\\chunk-ZXYVVBPE.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\hero4.png",
+      "PackagePath": "staticwebassets\\images\\hero4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "PackagePath": "staticwebassets\\main-UHMDIAUA.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "PackagePath": "staticwebassets\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\prerendered-routes.json",
+      "PackagePath": "staticwebassets\\prerendered-routes.json"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\styles-3VB43EF6.css",
+      "PackagePath": "staticwebassets\\styles-3VB43EF6.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
