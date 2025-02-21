@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x+JDw9Y+wPCwevrXW+irD3ZqMhM0Sz8ORiZOHSnsvH8=",
+  "Hash": "RBuIc0C6stFT7xVmxYB+EXxdFI6X/cJVkxlT097sgWo=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-fh6aa8ohos.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
-      "RelativePath": "index#[.{fingerprint=y6uwcimdt6}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=fh6aa8ohos}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "djq1kaplep",
-      "Integrity": "Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=",
+      "Fingerprint": "4acgv6nzrs",
+      "Integrity": "1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html"
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-ZXYVVBPE.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\3m1vhwiwg5-q9loc37vph.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main-C3DQN6HA#[.{fingerprint=q9loc37vph}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-C3DQN6HA.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xyy5heqvg2",
+      "Integrity": "SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-C3DQN6HA.js"
     },
     {
       "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
@@ -99,27 +120,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\chunk-O5HIKCJA.js"
-    },
-    {
-      "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/API",
-      "RelativePath": "main-UHMDIAUA#[.{fingerprint=ws5fztzpdg}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "gkbdkpd50l",
-      "Integrity": "0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js"
     },
     {
       "Identity": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\rk0kccqi5b-b1v8u17hms.gz",
@@ -808,19 +808,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y6uwcimdt6",
-      "Integrity": "2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=",
+      "Fingerprint": "fh6aa8ohos",
+      "Integrity": "U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-C3DQN6HA.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main-UHMDIAUA#[.{fingerprint}]?.js",
+      "RelativePath": "main-C3DQN6HA#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -829,11 +829,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ws5fztzpdg",
-      "Integrity": "4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=",
+      "Fingerprint": "q9loc37vph",
+      "Integrity": "UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-UHMDIAUA.js"
+      "OriginalItemSpec": "wwwroot\\main-C3DQN6HA.js"
     },
     {
       "Identity": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\polyfills-FFHMD2TL.js",
@@ -925,7 +925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -986,7 +986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1031,7 +1031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1086,7 +1086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1139,7 +1139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1176,7 +1176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1223,7 +1223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1276,7 +1276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1313,7 +1313,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1360,7 +1360,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1421,7 +1421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1466,7 +1466,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1521,7 +1521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1582,7 +1582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1627,7 +1627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1682,7 +1682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1735,7 +1735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1772,7 +1772,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4061,13 +4061,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
+      "Route": "index.fh6aa8ohos.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-fh6aa8ohos.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000096441315"
+          "Quality": "0.000096450617"
         }
       ],
       "ResponseHeaders": [
@@ -4077,19 +4077,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10368"
+          "Value": "10367"
         },
         {
           "Name": "ETag",
-          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
+          "Value": "\"1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4105,18 +4105,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+          "Value": "W/\"U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "fh6aa8ohos"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
+          "Value": "sha256-U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "index.fh6aa8ohos.html",
       "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4134,121 +4142,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+          "Value": "\"U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10368"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0="
-        }
-      ]
-    },
-    {
-      "Route": "index.y6uwcimdt6.html",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000096441315"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10368"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y6uwcimdt6"
+          "Value": "fh6aa8ohos"
         },
         {
           "Name": "label",
@@ -4256,13 +4164,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
+          "Value": "sha256-U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY="
         }
       ]
     },
     {
-      "Route": "index.y6uwcimdt6.html",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "Route": "index.fh6aa8ohos.html.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-fh6aa8ohos.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4271,7 +4179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74283"
+          "Value": "10367"
         },
         {
           "Name": "Content-Type",
@@ -4279,56 +4187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI=\""
+          "Value": "\"1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y6uwcimdt6"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2hQEzXwdr54rhkV0YeTXSgyIMZLi7LtXDFderNc5/LI="
-        }
-      ]
-    },
-    {
-      "Route": "index.y6uwcimdt6.html.gz",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-y6uwcimdt6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10368"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4346,7 +4209,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y6uwcimdt6"
+          "Value": "fh6aa8ohos"
         },
         {
           "Name": "label",
@@ -4354,18 +4217,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z/d9Xm++ubO2S/a8GlLDzhWGY4VzTUOkc3Yn1b0ljj0="
+          "Value": "sha256-1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y="
         }
       ]
     },
     {
-      "Route": "main-UHMDIAUA.js",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-fh6aa8ohos.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000005625404"
+          "Quality": "0.000096450617"
         }
       ],
       "ResponseHeaders": [
@@ -4375,15 +4238,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "177764"
+          "Value": "10367"
         },
         {
           "Name": "ETag",
-          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+          "Value": "\"1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U2mQzs1hcWEGAOacJtrB+Sti3EuzQHgmCMtV1CIVekY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-fh6aa8ohos.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Nbh06n60smlLcbz3ikM2QshlS/qMPFOYhW7DucU36Y="
+        }
+      ]
+    },
+    {
+      "Route": "main-C3DQN6HA.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\3m1vhwiwg5-q9loc37vph.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005625468"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4403,19 +4403,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+          "Value": "W/\"UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+          "Value": "sha256-UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A="
         }
       ]
     },
     {
-      "Route": "main-UHMDIAUA.js",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "Route": "main-C3DQN6HA.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-C3DQN6HA.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4432,11 +4432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+          "Value": "\"UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4446,13 +4446,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+          "Value": "sha256-UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A="
         }
       ]
     },
     {
-      "Route": "main-UHMDIAUA.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Route": "main-C3DQN6HA.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\3m1vhwiwg5-q9loc37vph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4461,7 +4461,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "177764"
+          "Value": "177762"
         },
         {
           "Name": "Content-Type",
@@ -4469,11 +4469,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+          "Value": "\"SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4491,18 +4491,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo="
+          "Value": "sha256-SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c="
         }
       ]
     },
     {
-      "Route": "main-UHMDIAUA.ws5fztzpdg.js",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Route": "main-C3DQN6HA.q9loc37vph.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\3m1vhwiwg5-q9loc37vph.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000005625404"
+          "Quality": "0.000005625468"
         }
       ],
       "ResponseHeaders": [
@@ -4512,15 +4512,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "177764"
+          "Value": "177762"
         },
         {
           "Name": "ETag",
-          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+          "Value": "\"SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4540,27 +4540,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+          "Value": "W/\"UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ws5fztzpdg"
+          "Value": "q9loc37vph"
         },
         {
           "Name": "label",
-          "Value": "main-UHMDIAUA.js"
+          "Value": "main-C3DQN6HA.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+          "Value": "sha256-UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A="
         }
       ]
     },
     {
-      "Route": "main-UHMDIAUA.ws5fztzpdg.js",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-UHMDIAUA.js",
+      "Route": "main-C3DQN6HA.q9loc37vph.js",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\wwwroot\\main-C3DQN6HA.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4577,11 +4577,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0=\""
+          "Value": "\"UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4591,21 +4591,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ws5fztzpdg"
+          "Value": "q9loc37vph"
         },
         {
           "Name": "label",
-          "Value": "main-UHMDIAUA.js"
+          "Value": "main-C3DQN6HA.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4C0v1/P7+YCymuRu50InZDVTtmc2lrk2iSTbbi750H0="
+          "Value": "sha256-UtYK9P5Rh62BCNoY0W8a9QWO6U77JYo5jAGOfvsE91A="
         }
       ]
     },
     {
-      "Route": "main-UHMDIAUA.ws5fztzpdg.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\i9tmpv9ytj-ws5fztzpdg.gz",
+      "Route": "main-C3DQN6HA.q9loc37vph.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\3m1vhwiwg5-q9loc37vph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4614,7 +4614,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "177764"
+          "Value": "177762"
         },
         {
           "Name": "Content-Type",
@@ -4622,11 +4622,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo=\""
+          "Value": "\"SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4644,15 +4644,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ws5fztzpdg"
+          "Value": "q9loc37vph"
         },
         {
           "Name": "label",
-          "Value": "main-UHMDIAUA.js.gz"
+          "Value": "main-C3DQN6HA.js.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0CNDkYEHFGtL/DrvJOcsm2ffZyA6Lk93HspwUQv9qDo="
+          "Value": "sha256-SUlWy5lnHa8m9RgMe+YQpqT+gDD+iUqAiQcoDov+n4c="
         }
       ]
     },
@@ -4681,7 +4681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4742,7 +4742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4787,7 +4787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4842,7 +4842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4895,7 +4895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4932,7 +4932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4979,7 +4979,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5032,7 +5032,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5069,7 +5069,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5116,7 +5116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5177,7 +5177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5222,7 +5222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5277,7 +5277,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5338,7 +5338,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5383,7 +5383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5438,7 +5438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5491,7 +5491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5528,7 +5528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:58:47 GMT"
+          "Value": "Thu, 20 Feb 2025 13:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
