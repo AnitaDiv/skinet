@@ -2,6 +2,7 @@ using API.RequestHelpers;
 using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -30,6 +31,8 @@ public async Task<ActionResult<Product>> GetProduct (int id)
     if (product == null) return NotFound ();
     return product;
 }
+
+[Authorize(Roles = "Admin")]
 [HttpPost]
 public async Task<ActionResult<Product>> CreateProduct (Product product)
 {
@@ -41,6 +44,7 @@ public async Task<ActionResult<Product>> CreateProduct (Product product)
 
     return BadRequest ("Problem creating product");
 }
+[Authorize(Roles = "Admin")]
 [HttpPut("{id:int}")]
 public async Task<ActionResult> UpdateProduct (int id, Product product)
 {
@@ -55,6 +59,7 @@ public async Task<ActionResult> UpdateProduct (int id, Product product)
      }
      return BadRequest("Problem updating the product");
 }
+[Authorize(Roles = "Admin")]
 [HttpDelete("{id:int}")]
 public async Task<ActionResult> DeleteProduct (int id)
 {
