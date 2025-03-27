@@ -17,9 +17,14 @@ export class OrderService {
     return this.http.post<Order>(this.baseUrl + 'orders', orderToCreate);
   }
 
-  getOrdersForUser() {
-    return this.http.get<Order[]>(this.baseUrl + 'orders');
+  getOrdersForUser(orderStatus?: string) {
+    let url = this.baseUrl + 'orders';
+    if (orderStatus) {
+      url += `/filter?orderStatus=${orderStatus}`;
+    }
+    return this.http.get<Order[]>(url);
   }
+
   getOrderDetailed(id: number) {
     return this.http.get<Order>(this.baseUrl + 'orders/' + id);
   }

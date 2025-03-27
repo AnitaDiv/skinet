@@ -20,8 +20,16 @@ export class OrderComponent implements OnInit{
   orders: Order[] = [];
 
   ngOnInit(): void {
-    this.orderService.getOrdersForUser().subscribe({
+    this.loadOrders();
+  }
+
+  loadOrders(orderStatus?: string): void {
+    this.orderService.getOrdersForUser(orderStatus).subscribe({
       next: orders => this.orders = orders
-    })
+    });
+  }
+
+  onFilterClick(orderStatus: string): void {
+    this.loadOrders(orderStatus);
   }
 }

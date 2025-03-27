@@ -91,6 +91,22 @@ public class OrdersController(ICartService cartService, IUnitOfWork unit) : Base
 
         return order.ToDto();
     }
+    [HttpGet("filter")]
+    public async Task<ActionResult<IReadOnlyList<OrderDto>>> GetOrdersByStatus([FromQuery] string? orderStatus = null)
+    {
+        var specParams = new OrderSpecParams
+        {
+            Status = orderStatus
+        };
+
+        var spec = new OrderSpecification(User.GetEmail(), specParams);
+
+        var orders = await unit.Repository<Order>().ListAsync(spec);
+
+        var ordersToReturn = orders.Select(o => o.ToDto()).ToList();
+
+        return Ok(ordersToReturn);
+    }
 }
 
 

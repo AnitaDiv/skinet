@@ -21,13 +21,14 @@ public class OrderSpecification : BaseSpecification<Order>
         AddInclude("DeliveryMethod");
     }
 
-    public OrderSpecification(OrderSpecParams specParams) : base(x =>
-    string.IsNullOrEmpty(specParams.Status) || x.Status == ParseStatus(specParams.Status)
+    public OrderSpecification(string email, OrderSpecParams specParams) : base(x =>
+        x.BuyerEmail == email &&
+        (string.IsNullOrEmpty(specParams.Status) || x.Status == ParseStatus(specParams.Status))
     )
     {
         AddInclude("OrderItems");
         AddInclude("DeliveryMethod");
-        ApplyPaging(specParams.PageSize * (specParams.PageIndex -1), specParams.PageSize);
+        ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
         AddOrderByDescending(x => x.OrderDate);
     }
 
